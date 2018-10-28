@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+ margin: 20px;
+}
+
+.parent {
+  background-color: aqua;
+}
+
+.parent:hover{
+  background-color: blueviolet;
+}
+.child {
+  padding:0 0 0 15px;
+  background-color: greenyellow;
+}
+
